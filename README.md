@@ -17,9 +17,9 @@
 <p>
   <img alt="Food Science" src="https://img.shields.io/badge/Food_Science-A5A78F?style=flat-square">
   <img alt="Sports Science" src="https://img.shields.io/badge/Sports_Science-352340?style=flat-square">
-  <img alt="Large Models" src="https://img.shields.io/badge/Large_Models-6B5B73?style=flat-square">
-  <img alt="Agents" src="https://img.shields.io/badge/Agents-7A6B80?style=flat-square">
-  <img alt="AI Hardware" src="https://img.shields.io/badge/AI_Hardware-5B4A63?style=flat-square">
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-6B5B73?style=flat-square">
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-7A6B80?style=flat-square">
+  <img alt="Embodied AI" src="https://img.shields.io/badge/Embodied_AI-5B4A63?style=flat-square">
 </p>
 
 </div>
@@ -28,11 +28,7 @@
 
 ## 中文
 
-### 关注
-
-- 真实世界中的大模型与 Agent
-- AI 硬件与物理世界交互的工程问题
-- 食品科学与体育科学的交叉
+**关键词：** LLMs · AI Agents · Agent Harness · World Models · Embodied AI · AI Hardware
 
 ### 已发布项目
 
@@ -46,7 +42,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ChemistryBus/seekport">seekport ↗</a></h3>
       <p>把 DeepSeek 官方 Search / Fetch API 接进 agent harness。零依赖，Agent Skill + MCP。</p>
-      <p><code>Python</code> · <code>MCP</code> · <code>Search / Fetch</code></p>
+      <p><code>Python</code> · <code>MCP</code> · <code>Agent Harness</code></p>
     </td>
   </tr>
 </table>
@@ -70,18 +66,14 @@
 <p>
   <img alt="Food Science" src="https://img.shields.io/badge/Food_Science-A5A78F?style=flat-square">
   <img alt="Sports Science" src="https://img.shields.io/badge/Sports_Science-352340?style=flat-square">
-  <img alt="Large Models" src="https://img.shields.io/badge/Large_Models-6B5B73?style=flat-square">
-  <img alt="Agents" src="https://img.shields.io/badge/Agents-7A6B80?style=flat-square">
-  <img alt="AI Hardware" src="https://img.shields.io/badge/AI_Hardware-5B4A63?style=flat-square">
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-6B5B73?style=flat-square">
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-7A6B80?style=flat-square">
+  <img alt="Embodied AI" src="https://img.shields.io/badge/Embodied_AI-5B4A63?style=flat-square">
 </p>
 
 </div>
 
-### Focus
-
-- Large models and agents in the real world
-- Engineering problems in AI hardware and physical-world interaction
-- Intersection of food science and sports science
+**Keywords:** LLMs · AI Agents · Agent Harness · World Models · Embodied AI · AI Hardware
 
 ### Published projects
 
@@ -95,7 +87,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ChemistryBus/seekport">seekport ↗</a></h3>
       <p>A bridge from DeepSeek's official Search / Fetch API into agent harnesses. Zero dependencies; Agent Skill + MCP.</p>
-      <p><code>Python</code> · <code>MCP</code> · <code>Search / Fetch</code></p>
+      <p><code>Python</code> · <code>MCP</code> · <code>Agent Harness</code></p>
     </td>
   </tr>
 </table>
