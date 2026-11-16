@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChemistryBus/ChemistryBus/main/assets/banner.svg" alt="ChemistryBus — Food Science × Sports Science × AI" width="100%">
+  <img src="https://raw.githubusercontent.com/ChemistryBus/ChemistryBus/main/assets/banner.svg?v=2" alt="ChemistryBus — Food Science × Sports Science × AI" width="100%">
 </p>
 
 <h1 align="center">ChemistryBus</h1>
