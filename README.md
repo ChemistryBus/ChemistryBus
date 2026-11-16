@@ -5,10 +5,11 @@
 <h1 align="center">ChemistryBus</h1>
 
 <p align="center">
-  <img alt="Food Science" src="https://img.shields.io/badge/Food_Science-A5A78F?style=flat-square">
-  <img alt="Sports Science" src="https://img.shields.io/badge/Sports_Science-352340?style=flat-square">
-  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-6B5B73?style=flat-square">
-  <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-7A6B80?style=flat-square">
+  <img alt="Food Science" src="https://img.shields.io/badge/Food_Science-171717?style=flat-square">
+  <img alt="Sports Science" src="https://img.shields.io/badge/Sports_Science-171717?style=flat-square">
+  <img alt="LLMs" src="https://img.shields.io/badge/LLMs-171717?style=flat-square">
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-171717?style=flat-square">
+  <img alt="Agent Harness" src="https://img.shields.io/badge/Agent_Harness-2457F5?style=flat-square">
 </p>
 
 <p align="center">
@@ -31,7 +32,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ChemistryBus/seekport">seekport ↗</a></h3>
       <p>把 DeepSeek 官方 Search / Fetch API 接进 agent 工具。零依赖，Agent Skill + MCP。</p>
-      <p><code>Python</code> · <code>MCP</code> · <code>Search / Fetch</code></p>
+      <p><code>Python</code> · <code>MCP</code> · <code>Agent Harness</code></p>
     </td>
   </tr>
 </table>
@@ -58,7 +59,7 @@ Engineer in Food Science and doctoral candidate in Education (Sports Human Scien
     <td width="50%" valign="top">
       <h3><a href="https://github.com/ChemistryBus/seekport">seekport ↗</a></h3>
       <p>A bridge from DeepSeek's official Search / Fetch API into agent tools. Zero dependencies; Agent Skill + MCP.</p>
-      <p><code>Python</code> · <code>MCP</code> · <code>Search / Fetch</code></p>
+      <p><code>Python</code> · <code>MCP</code> · <code>Agent Harness</code></p>
     </td>
   </tr>
 </table>
