@@ -1,35 +1,55 @@
 <p align="center">
-  <strong>中文</strong> · <a href="#english">English ↓</a>
+  <img src="https://raw.githubusercontent.com/ChemistryBus/ChemistryBus/main/assets/banner.svg" alt="ChemistryBus — Food Science × Sports Science × Agents" width="100%">
 </p>
 
-<h1 align="center">ChemistryBus</h1>
+<div align="center">
 
-<p align="center"><strong>高级工程师（食品检测）/ 教育学博士在读（运动人体科学）/ AI 工具作者</strong></p>
-<p align="center">喜欢从真实问题出发，把工具做出来；关注 Agent 与检验检测、体育科学的交叉。</p>
+<h1>ChemistryBus</h1>
+
+<p><strong>高级工程师（食品科学）/ 教育学博士在读（运动人体科学）/ AI 工具作者</strong></p>
+
+<p>食品科学 × 体育科学 × Agent</p>
+
+<p>
+  <a href="#中文">中文</a> · <a href="#english">English</a>
+</p>
+
+<p>
+  <img alt="Food Science" src="https://img.shields.io/badge/Food_Science-2E7D32?style=flat-square">
+  <img alt="Sports Science" src="https://img.shields.io/badge/Sports_Science-1565C0?style=flat-square">
+  <img alt="Agent Skills" src="https://img.shields.io/badge/Agent_Skills-6A1B9A?style=flat-square">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-EF6C00?style=flat-square">
+  <img alt="Document AI" src="https://img.shields.io/badge/Document_AI-00838F?style=flat-square">
+</p>
+
+</div>
 
 ---
 
 ## 中文
 
-### 方向
+### 已发布项目
 
-在大模型公司做交叉研究，逐步带团队，搭建湿实验 / 干实验流程，让检验检测与体育科学的师生用上 Agent 和 AI 硬件。
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ChemistryBus/docarbiter">docarbiter ↗</a></h3>
+      <p>中英文文档提取的路由层。先探测文件，再选工具；扫描件、双栏、表格和 Office 都有可解释的降级链。</p>
+      <p><code>Python</code> · <code>Agent Skill</code> · <code>Document AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ChemistryBus/seekport">seekport ↗</a></h3>
+      <p>把 DeepSeek 官方 Search / Fetch API 接进 agent harness。零依赖，Agent Skill + MCP。</p>
+      <p><code>Python</code> · <code>MCP</code> · <code>Agent Tooling</code></p>
+    </td>
+  </tr>
+</table>
 
-### 我在做什么
+### 关注
 
-- **docarbiter** — 中英文文档提取的路由层。先探测文件，再选工具；扫描件、双栏、表格和 Office 都有可解释的降级链。  
-  [GitHub 仓库](https://github.com/ChemistryBus/docarbiter)
-
-- **seekport** — 把 DeepSeek 官方 Search/Fetch API 接进 Claude Code、Codex、ZCode 等 agent harness。零依赖，Agent Skill + MCP。  
-  [GitHub 仓库](https://github.com/ChemistryBus/seekport)
-
-- **食衡**（开发中）— 面向中国居民膳食指南的膳食评估工具
-
-### 在研方向
-
-- CPET 数据校验与提取
-- 组学分析流程
-- 符合中国居民膳食指南和营养素参考的中文 humanizer
+- 食品科学与体育科学的交叉
+- Agent 工具与研究工作流
+- 中文文档提取与结构化
 
 ### 联系
 
@@ -39,33 +59,48 @@
 
 ## English
 
-### ChemistryBus
+<div align="left">
 
-**Engineer in food testing (senior professional title) / Doctoral candidate in Education (Sports Human Science) / AI tool builder focused on agents**
+<h3>ChemistryBus</h3>
 
-I like starting from real problems and turning them into tools. Interested in agents at the intersection of testing and inspection, sports science, and research workflows.
+<p><strong>Engineer in Food Science (senior professional title) / Doctoral candidate in Education (Sports Human Science) / AI tool builder</strong></p>
 
-#### Direction
+<p>Food Science × Sports Science × Agents</p>
 
-Interdisciplinary research at an LLM company, growing into a team lead, building wet-lab and dry-lab workflows so students and faculty in testing/inspection and sports science can use agents and AI hardware.
+<p>
+  <img alt="Food Science" src="https://img.shields.io/badge/Food_Science-2E7D32?style=flat-square">
+  <img alt="Sports Science" src="https://img.shields.io/badge/Sports_Science-1565C0?style=flat-square">
+  <img alt="Agent Skills" src="https://img.shields.io/badge/Agent_Skills-6A1B9A?style=flat-square">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-EF6C00?style=flat-square">
+  <img alt="Document AI" src="https://img.shields.io/badge/Document_AI-00838F?style=flat-square">
+</p>
 
-#### What I am building
+</div>
 
-- **docarbiter** — a routing layer for Chinese and English document extraction. Probe the file, choose the tool, and keep an explainable fallback for scans, two-column layouts, tables, and Office files.  
-  [Repository](https://github.com/ChemistryBus/docarbiter)
+### Published projects
 
-- **seekport** — a bridge from DeepSeek's official Search/Fetch API into agent harnesses such as Claude Code, Codex, and ZCode. Zero dependencies; Agent Skill + MCP.  
-  [Repository](https://github.com/ChemistryBus/seekport)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ChemistryBus/docarbiter">docarbiter ↗</a></h3>
+      <p>A routing layer for Chinese and English document extraction. Probe the file, choose the tool, and keep an explainable fallback for scans, two-column layouts, tables, and Office files.</p>
+      <p><code>Python</code> · <code>Agent Skill</code> · <code>Document AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ChemistryBus/seekport">seekport ↗</a></h3>
+      <p>A bridge from DeepSeek's official Search / Fetch API into agent harnesses. Zero dependencies; Agent Skill + MCP.</p>
+      <p><code>Python</code> · <code>MCP</code> · <code>Agent Tooling</code></p>
+    </td>
+  </tr>
+</table>
 
-- **Shiheng** (in development) — a dietary assessment tool aligned with Chinese dietary guidelines
+### Focus
 
-#### In progress
+- Intersection of food science and sports science
+- Agent tools and research workflows
+- Chinese document extraction and structuring
 
-- CPET data validation and extraction
-- Omics analysis workflows
-- A Chinese nutrition humanizer aligned with Chinese dietary guidelines and nutrient reference values
-
-#### Contact
+### Contact
 
 - GitHub Issues: https://github.com/ChemistryBus/docarbiter/issues
 
