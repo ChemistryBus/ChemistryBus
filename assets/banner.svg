@@ -1,26 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
   <title id="title">ChemistryBus</title>
-  <desc id="desc">Food Science, Sports Science, and Agents</desc>
+  <desc id="desc">Food Science, Sports Science, and AI</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="1" stop-color="#13233A"/>
-    </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2DD4BF"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="0" stop-color="#A5A78F"/>
+      <stop offset="1" stop-color="#352340"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <g stroke="#FFFFFF" stroke-width="1" opacity="0.08">
-    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
-    <path d="M120 0V300M240 0V300M360 0V300M480 0V300M600 0V300M720 0V300M840 0V300M960 0V300M1080 0V300"/>
+  <rect width="1200" height="220" fill="#EFEBF4"/>
+  <g stroke="#352340" stroke-width="1" opacity="0.06">
+    <path d="M0 44H1200M0 88H1200M0 132H1200M0 176H1200"/>
+    <path d="M120 0V220M240 0V220M360 0V220M480 0V220M600 0V220M720 0V220M840 0V220M960 0V220M1080 0V220"/>
   </g>
-  <circle cx="1040" cy="78" r="170" fill="#2DD4BF" opacity="0.10"/>
-  <circle cx="1120" cy="250" r="130" fill="#F59E0B" opacity="0.10"/>
-  <rect x="64" y="54" width="7" height="192" rx="3.5" fill="url(#accent)"/>
-  <text x="100" y="102" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="6">CHEMISTRYBUS</text>
-  <text x="100" y="162" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700">Food Science × Sports Science</text>
-  <text x="100" y="214" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600">× Agents</text>
-  <text x="100" y="256" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="17">Building agent tools for research workflows</text>
+  <circle cx="1050" cy="30" r="150" fill="#A5A78F" opacity="0.18"/>
+  <circle cx="1140" cy="210" r="110" fill="#E7EBD7" opacity="0.55"/>
+  <rect x="64" y="38" width="6" height="144" rx="3" fill="url(#accent)"/>
+  <text x="96" y="68" fill="#6B5B73" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="5">CHEMISTRYBUS</text>
+  <text x="96" y="116" fill="#352340" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Food Science × Sports Science × AI</text>
+  <text x="96" y="152" fill="#5B4A63" font-family="Arial, Helvetica, sans-serif" font-size="21">Real-world AI · AI hardware · Agents</text>
+  <text x="96" y="184" fill="#7A6B80" font-family="Arial, Helvetica, sans-serif" font-size="14">Building AI tools for real-world research</text>
 </svg>
