@@ -1,20 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="title desc">
   <title id="title">ChemistryBus</title>
   <desc id="desc">Food Science, Sports Science, and AI</desc>
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#A5A78F"/>
-      <stop offset="1" stop-color="#352340"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="160" fill="#EFEBF4"/>
-  <g stroke="#352340" stroke-width="1" opacity="0.06">
+  <rect width="1200" height="160" fill="#FFFFFF"/>
+  <rect x="0.5" y="0.5" width="1199" height="159" fill="none" stroke="#E5E7EB"/>
+  <g stroke="#171717" stroke-width="1" opacity="0.04">
     <path d="M0 40H1200M0 80H1200M0 120H1200"/>
     <path d="M120 0V160M240 0V160M360 0V160M480 0V160M600 0V160M720 0V160M840 0V160M960 0V160M1080 0V160"/>
   </g>
-  <circle cx="1060" cy="20" r="120" fill="#A5A78F" opacity="0.18"/>
-  <circle cx="1140" cy="150" r="90" fill="#E7EBD7" opacity="0.55"/>
-  <rect x="64" y="34" width="6" height="92" rx="3" fill="url(#accent)"/>
-  <text x="96" y="62" fill="#6B5B73" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="5">CHEMISTRYBUS</text>
-  <text x="96" y="112" fill="#352340" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Food Science × Sports Science × AI</text>
+  <circle cx="1080" cy="20" r="130" fill="#2457F5" opacity="0.07"/>
+  <circle cx="1150" cy="150" r="90" fill="#2457F5" opacity="0.04"/>
+  <rect x="64" y="34" width="6" height="92" rx="3" fill="#2457F5"/>
+  <text x="96" y="62" fill="#2457F5" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="5">CHEMISTRYBUS</text>
+  <text x="96" y="112" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Food Science × Sports Science × <tspan fill="#2457F5">AI</tspan></text>
 </svg>
