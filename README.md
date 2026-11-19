@@ -35,6 +35,13 @@
       <p><code>Python</code> · <code>MCP</code> · <code>Agent Harness</code></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/ChemistryBus/zh-nutrition-humanizer">zh-nutrition-humanizer ↗</a></h3>
+      <p>中文营养写作的语体、术语与体例校准：对齐国家营养政策、中国营养学会出版物与营养标准的口吻。</p>
+      <p><code>Python</code> · <code>Agent Skill</code> · <code>Style Calibration</code></p>
+    </td>
+  </tr>
 </table>
 
 ### 联系
@@ -60,6 +67,13 @@ Engineer in Food Science and doctoral candidate in Education (Sports Human Scien
       <h3><a href="https://github.com/ChemistryBus/seekport">seekport ↗</a></h3>
       <p>A bridge from DeepSeek's official Search / Fetch API into agent tools. Zero dependencies; Agent Skill + MCP.</p>
       <p><code>Python</code> · <code>MCP</code> · <code>Agent Harness</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/ChemistryBus/zh-nutrition-humanizer">zh-nutrition-humanizer ↗</a></h3>
+      <p>Voice, terminology and style alignment for Chinese nutrition writing.</p>
+      <p><code>Python</code> · <code>Agent Skill</code> · <code>Style Calibration</code></p>
     </td>
   </tr>
 </table>
