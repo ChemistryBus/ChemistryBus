@@ -8,8 +8,9 @@
     <path d="M120 0V160M240 0V160M360 0V160M480 0V160M600 0V160M720 0V160M840 0V160M960 0V160M1080 0V160"/>
   </g>
   <circle cx="1080" cy="20" r="130" fill="#2457F5" opacity="0.07"/>
-  <circle cx="1150" cy="150" r="90" fill="#2457F5" opacity="0.04"/>
+  <circle cx="1150" cy="150" r="90" fill="#15803D" opacity="0.06"/>
+  <circle cx="980" cy="165" r="70" fill="#C2410C" opacity="0.06"/>
   <rect x="64" y="34" width="6" height="92" rx="3" fill="#2457F5"/>
   <text x="96" y="62" fill="#2457F5" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="5">CHEMISTRYBUS</text>
-  <text x="96" y="112" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Food Science × Sports Science × <tspan fill="#2457F5">AI</tspan></text>
+  <text x="96" y="112" fill="#171717" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700"><tspan fill="#15803D">Food Science</tspan> × <tspan fill="#C2410C">Sports Science</tspan> × <tspan fill="#2457F5">AI</tspan></text>
 </svg>
